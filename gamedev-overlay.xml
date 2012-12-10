@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>                                                                                                     
+ <repositories version="1.0">
+   <repo priority="50" quality="experimental" status="unofficial">
+     <name>gamedev-overlay</name>
+     <description>Gentoo overlay various game development reladted libraries focused on Ogre</description>
+     <homepage>https://github.com/trilader/gamedev-overlay</homepage>
+     <owner>
+       <email></email>
+     </owner>
+     <source type="git">git://github.com/trilader/gamedev-overlay.git</source>
+   </repo>
+</repositories>
